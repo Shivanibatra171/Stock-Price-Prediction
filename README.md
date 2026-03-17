@@ -19,5 +19,13 @@ Historical stock price dataset with features: Open, High, Low, Close, Volume
 Data loading and cleaning (handled missing values with forward fill)
 Feature selection: Open, High, Low, Volume → predict Close
 Data normalization using MinMaxScaler
+
+📁 Files
+FileDescriptionStock_Price_Prediction.ipynbMain Jupyter notebook
+StockPriceDataset.csvHistorical stock data
+
+👩‍💻 Author
+Shivani Batra — CS Student at Sukkur IBA University (AI Specialization)
+LinkedIn | GitHub
 Model training with Linear Regression
 Evaluation using MSE and R² Score
